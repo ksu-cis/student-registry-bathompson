@@ -1,0 +1,15 @@
+C:\Users\bathompson\Downloads\student-registry-bathompson-master\student-registry-bathompson-master\StudentRegister\StudentRegister\bin\Debug\StudentRegister.exe.config
+C:\Users\bathompson\Downloads\student-registry-bathompson-master\student-registry-bathompson-master\StudentRegister\StudentRegister\bin\Debug\StudentRegister.exe
+C:\Users\bathompson\Downloads\student-registry-bathompson-master\student-registry-bathompson-master\StudentRegister\StudentRegister\bin\Debug\StudentRegister.pdb
+C:\Users\bathompson\Downloads\student-registry-bathompson-master\student-registry-bathompson-master\StudentRegister\StudentRegister\obj\Debug\StudentRegister.csprojAssemblyReference.cache
+C:\Users\bathompson\Downloads\student-registry-bathompson-master\student-registry-bathompson-master\StudentRegister\StudentRegister\obj\Debug\MainWindow.g.cs
+C:\Users\bathompson\Downloads\student-registry-bathompson-master\student-registry-bathompson-master\StudentRegister\StudentRegister\obj\Debug\App.g.cs
+C:\Users\bathompson\Downloads\student-registry-bathompson-master\student-registry-bathompson-master\StudentRegister\StudentRegister\obj\Debug\StudentRegister_MarkupCompile.cache
+C:\Users\bathompson\Downloads\student-registry-bathompson-master\student-registry-bathompson-master\StudentRegister\StudentRegister\obj\Debug\StudentRegister_MarkupCompile.lref
+C:\Users\bathompson\Downloads\student-registry-bathompson-master\student-registry-bathompson-master\StudentRegister\StudentRegister\obj\Debug\MainWindow.baml
+C:\Users\bathompson\Downloads\student-registry-bathompson-master\student-registry-bathompson-master\StudentRegister\StudentRegister\obj\Debug\StudentRegister.g.resources
+C:\Users\bathompson\Downloads\student-registry-bathompson-master\student-registry-bathompson-master\StudentRegister\StudentRegister\obj\Debug\StudentRegister.Properties.Resources.resources
+C:\Users\bathompson\Downloads\student-registry-bathompson-master\student-registry-bathompson-master\StudentRegister\StudentRegister\obj\Debug\StudentRegister.csproj.GenerateResource.cache
+C:\Users\bathompson\Downloads\student-registry-bathompson-master\student-registry-bathompson-master\StudentRegister\StudentRegister\obj\Debug\StudentRegister.csproj.CoreCompileInputs.cache
+C:\Users\bathompson\Downloads\student-registry-bathompson-master\student-registry-bathompson-master\StudentRegister\StudentRegister\obj\Debug\StudentRegister.exe
+C:\Users\bathompson\Downloads\student-registry-bathompson-master\student-registry-bathompson-master\StudentRegister\StudentRegister\obj\Debug\StudentRegister.pdb
